@@ -1,6 +1,6 @@
 module github.com/emad-elsaid/xlog
 
-go 1.20.12
+go 1.20
 
 require (
 	github.com/alecthomas/chroma/v2 v2.13.0
